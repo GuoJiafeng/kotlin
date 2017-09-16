@@ -1,3 +1,5 @@
+package Kt001_基本要素_函数和变量
+
 fun main(agrs : Array<String>){
     println("GG 复 GG，木兰当户织!");
 }

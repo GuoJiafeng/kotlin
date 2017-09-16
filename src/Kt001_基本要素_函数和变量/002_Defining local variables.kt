@@ -1,5 +1,7 @@
+package Kt001_基本要素_函数和变量
+
 fun main(args: Array<String>) {
-   test02()
+    test02()
 }
   fun test01(){
 

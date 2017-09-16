@@ -1,3 +1,5 @@
+package Kt001_基本要素_函数和变量
+
 //max方法名  括号内是形参列表 括号外是返回值  return 后面的语句的意思是java中的三元运算符   （a>b） a else b
 fun max1(a: Int, b: Int): Int {
     return if (a > b) a else b

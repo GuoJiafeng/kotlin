@@ -1,8 +1,8 @@
-import java.util.*
+package Kt001_基本要素_函数和变量
 
 fun main(args: Array<String>) {
-    print(sum01(1,3))
-    printSun(11,11)
+    print(sum01(1, 3))
+    printSun(11, 11)
 }
 
 
